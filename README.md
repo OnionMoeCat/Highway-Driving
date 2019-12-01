@@ -30,7 +30,7 @@ Now the path planner is running and listening for messages from the simulator. N
 
 Click the "Select" button and hope for the best on the highway...
 
-# [Rubic]
+# Rubric
 
 ## Compilation
 
