@@ -41,7 +41,7 @@ It compiles correctly.
 The trajectories are valid.
 
 ### The car is able to drive at least 4.32 miles without incident.
-
+The first picture shows that.
 
 ### The car drives according to the speed limit.
 No speed limit red message was seen.
